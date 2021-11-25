@@ -1,7 +1,7 @@
 # eyes
 
 ## Project Description
-Moving eyes exercise for MITxPRO coding bootcamp using mostly HTML and CSS. Eyes follow the movement of the mouse.
+Moving eyes exercise for MITxPRO coding bootcamp using HTML, CSS and JavaScript. Eyes follow the movement of the mouse.
 
 ## How to Run
 View the app on my homepage at https://be-rahn.github.io/ and click the Launch eyes button. You can also run this project by cloning the repository to your local machine and opening the index.html file in your browser.
